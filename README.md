@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+## Ссылка на проект: https://leraseagull.github.io/calc-money.html
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
