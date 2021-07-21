@@ -1,0 +1,17 @@
+.footer__butt {
+    border: none;
+    margin-bottom: 10px;
+    text-decoration: none;
+    outline: none;
+    display: inline-block;
+    color: #e1c1b7;
+    padding: 10px 18px;
+    margin: 10px 20px;
+    border-radius: 10px;
+    background-color: #09280a;
+    cursor: pointer;
+}
+
+.footer__butt:hover {
+    opacity: 0,8;
+}

@@ -1,0 +1,9 @@
+.footer__list {
+    line-height: 30px;
+    color: aliceblue;
+    position: relative;
+    margin-left: 23px;
+    margin-bottom: 7px;
+    display: block;
+    text-decoration: none;
+}

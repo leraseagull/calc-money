@@ -1,0 +1,11 @@
+.footer__title {
+    color: #fff;
+    font-size: 1.4rem;
+    margin-bottom: 20px;
+}
+
+.footer-title a {
+    color: white;
+    font-size: 1.4rem;
+    text-decoration: none;
+  }

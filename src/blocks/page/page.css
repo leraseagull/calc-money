@@ -1,0 +1,11 @@
+.page {
+    font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
+    font-style: normal;
+    background: linear-gradient(to right bottom, #92c5ff, #2751a0);
+	background-size: 400% 400%;
+	animation: gradient 7s ease 1;
+    min-height: 100vh;
+    min-width: 320px;
+    margin: 0;
+
+}

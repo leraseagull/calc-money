@@ -1,0 +1,8 @@
+.currency__input {
+    border: 0;
+    background-color: transparent;
+    border-bottom: 1px solid rgb(21, 109, 18);
+    color: #181818;
+    width: 24em;
+    outline: none;
+}

@@ -1,0 +1,8 @@
+.currency__equals {
+    font-weight: bold;
+    font-size: 2rem;
+    padding: 3rem;
+    color: #181818;
+    padding-left: 5px;
+    padding-right: 5px;
+}
